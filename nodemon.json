@@ -1,7 +1,0 @@
-{
-  "env": {
-    "MONGO_ATLAST_PW": "vaishakPass",
-    "PORT": 5001,
-    "JWT_KEY": "SECRET_TOKEN_DEMO_PROJECT"
-  }
-}
